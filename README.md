@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="preview.png" width="60%">
 </p>
 
 
@@ -34,3 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+
+
+## Modificações Pessoais
+
+- CSS
+- HTML
+- JavaScript
